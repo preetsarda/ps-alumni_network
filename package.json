@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "alumnetwork",
+  "version": "1.0.0",
+  "description": "Alumni Network Project School 1st sem",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "keywords": [
+    "node",
+    "second",
+    "website"
+  ],
+  "author": "Prees",
+  "license": "ISC"
+}
